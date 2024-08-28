@@ -1,0 +1,9 @@
+{
+    "location": {
+        "destination": "New York"
+    },
+    "details": {
+        "type": "City",
+        "population": 8175133
+    }
+}
